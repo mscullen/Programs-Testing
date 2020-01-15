@@ -1,12 +1,4 @@
-///////////////////////////////////////////////////////////
-//Project: Lab5 Rent Program 
-//Programmer: Matthew Cullen
-//Date: November 5,2016
-//Class: CS 2010 2:30pm-4:00pm
-//Despcription: This program will calcualte a users monthly rent with an additional late fee.
-//
-//All code is mine unless otherwise indicated.
-/////////////////////////////////////////////////////////////
+
 
 
 #include<iostream>
